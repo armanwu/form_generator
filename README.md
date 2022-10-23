@@ -1,2 +1,2 @@
-# building_generator
+# Building Generator
 Just another building generator..
