@@ -1,2 +1,2 @@
-# Form Generator
-Just another architectural form generator..
+# Mass Manipulator
+Mass manipulator with the concept of fundamental algorithmic grammar.
